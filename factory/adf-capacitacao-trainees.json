@@ -1,0 +1,9 @@
+{
+	"name": "adf-capacitacao-trainees",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5e4a64d8-0f43-4512-9014-529b93bc91f3",
+		"tenantId": "7cd67214-69f1-4599-9698-f5cc30cf5600"
+	}
+}
